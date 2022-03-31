@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "5T7Mpp508wVlCc3k8V1Iiz",
+    "name" : "Azure Project Renamed",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "2nd version, with a hundred assets removed. Description updated.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
