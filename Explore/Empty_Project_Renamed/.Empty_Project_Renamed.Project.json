@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "78lCocXEgWtiUWpzNks56Z",
-    "name" : "Project_To_Be_Renamed",
+    "name" : "Empty_Project_Renamed",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Project To be Renamed",
+        "description" : "",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
