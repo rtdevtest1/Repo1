@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7nkVoNvnE6RkUBLTPJPreT",
-    "name" : "Mapplet4",
+    "id" : "8Bm2NEEi0oSiwEyPoQOd6g",
+    "name" : "Mapplet4Renamed",
     "type" : "DMAPPLET",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000040000000000008"
+        "repoHandle" : "01000040000000000009"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
