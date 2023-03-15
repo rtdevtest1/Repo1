@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "eNaBUUXAssUef2wXL55KwP",
+    "id" : "8Hl0uPqpBh2fnwjYBehnoq",
     "name" : "Mapplet6",
     "type" : "DMAPPLET",
     "metadata" : {
@@ -9,15 +9,15 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000040000000000009"
+        "repoHandle" : "01000040000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "adding desc to asset6",
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
