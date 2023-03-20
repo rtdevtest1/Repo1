@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "lVillSRtG4ddfo147Ywai1",
-    "name" : "MappingA",
+    "id" : "jaSuD9ujw4lh64WZPpYWwC",
+    "name" : "MappingARenamed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000017000000000007"
+        "repoHandle" : "01000017000000000006"
       },
       "contextAttributes" : [ {
         "name" : "id",
