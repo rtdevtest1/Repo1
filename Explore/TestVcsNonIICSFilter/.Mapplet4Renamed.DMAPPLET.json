@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "5awXzTNFRDUlvbVQZNuvuE",
-    "name" : "Mapplet4",
+    "name" : "Mapplet4Renamed",
     "type" : "DMAPPLET",
     "metadata" : {
       "modelVersion" : {
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
