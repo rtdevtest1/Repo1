@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "1l6n3hJQUyjfAdB9wgyIoJ",
-    "name" : "Mapping1",
+    "id" : "kSAFhJ9sbqulmDJ2Z9qIuh",
+    "name" : "Mapping1Renamed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100001700000000000F"
+        "repoHandle" : "01000017000000000009"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "Cretaed Mapping 1",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
