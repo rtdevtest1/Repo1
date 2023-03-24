@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6QygdfoMfFClxIbWrFb6Uo",
+    "id" : "18xMK2B1tlSiC9LRA0tTa8",
     "name" : "Mapping_With_Connection",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100001700000000000Q"
+        "repoHandle" : "0100001700000000000X"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "added desc",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

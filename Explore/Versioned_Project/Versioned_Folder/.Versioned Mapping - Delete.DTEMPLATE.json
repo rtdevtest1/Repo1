@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8qL5lmK7JRZdu05l9Gv68m",
+    "id" : "lat2RPQOo4UcRsbiRpfFkA",
     "name" : "Versioned Mapping - Delete",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100001700000000000N"
+        "repoHandle" : "0100001700000000000U"
       },
       "contextAttributes" : [ {
         "name" : "id",
