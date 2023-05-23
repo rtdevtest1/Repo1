@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "desc",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -35,10 +35,7 @@
       "repoInfo" : {
         "repoHandle" : "0100010I000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
