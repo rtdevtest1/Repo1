@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "82Yy93XXMVqjPCge2T70gP",
-    "name" : "TF_EMAILSTEP",
+    "name" : "tf_emailstep",
     "type" : "WORKFLOW",
     "metadata" : {
       "modelVersion" : {
