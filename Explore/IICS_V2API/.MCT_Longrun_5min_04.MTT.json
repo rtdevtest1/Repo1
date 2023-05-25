@@ -95,10 +95,7 @@
       "repoInfo" : {
         "repoHandle" : "01000117000000000005"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "DO NOT CHANGE THIS !!!\nAzure MS-SQL mapping to flat file, This mapping is used for V2 API testing.\nIf agent is linux,  target directory set to /tmp, if agent is windows target directory set to c:/temp. (handled by automation script)\n\n",
         "contentType" : "JSON",
