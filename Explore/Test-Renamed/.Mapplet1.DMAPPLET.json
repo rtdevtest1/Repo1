@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5VDh2bgUkGjbWh5896EyA8",
+    "id" : "axBK0TcnYuZkBIr69lzKsH",
     "name" : "Mapplet1",
     "type" : "DMAPPLET",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000040000000000005"
+        "repoHandle" : "0100004000000000000P"
       },
       "contextAttributes" : [ {
         "name" : "id",

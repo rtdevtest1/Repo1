@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0NRTYmccoNKjemhXTgM4UU",
+    "id" : "3LcPp1iHn8ucd8oDB0j16Q",
     "name" : "Test-Renamed",
     "type" : "Project",
     "metadata" : {
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "added desc",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
