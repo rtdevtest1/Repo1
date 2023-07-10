@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "7ngr1TlUSAUehqSUFrMZev",
+    "name" : "Mapplet4",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100004000000000000Y"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
