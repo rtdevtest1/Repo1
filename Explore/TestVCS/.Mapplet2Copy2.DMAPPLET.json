@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "5JZUybH9lUvcXmBG7FXQYU",
+    "name" : "Mapplet2Copy2",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000040000000000016"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-07-21T06:37:04.055Z",
+  "objectRefs" : [ ]
+}
