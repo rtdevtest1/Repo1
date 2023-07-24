@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Adding desc",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-07-24T19:58:24.447Z",
+  "updateTime" : "2023-07-24T20:01:33.357Z",
   "objectRefs" : [ ]
 }
