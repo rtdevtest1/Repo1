@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "23ooQxftZe8ev6OejLgiCE",
+    "id" : "e2m3Hj7Wbmyc5DZqeWot4C",
     "name" : "Versioned Mapping - Delete",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,19 +9,20 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000017000000000003"
+        "repoHandle" : "01000517000000000005"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "desc",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2023-07-24T19:16:46.538Z",
   "objectRefs" : [ ]
 }

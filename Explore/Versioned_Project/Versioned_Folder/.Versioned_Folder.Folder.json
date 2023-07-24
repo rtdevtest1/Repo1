@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ed06x1qIlI1hYMhBrX2HAW",
+    "id" : "991ASY28J7CiUV9llOEWSz",
     "name" : "Versioned_Folder",
     "type" : "Folder",
     "metadata" : {
@@ -11,12 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "adding desc",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
+  "updateTime" : "2023-07-24T19:16:46.540Z",
   "objectRefs" : [ ]
 }

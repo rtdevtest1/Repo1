@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "hRReyN6sgKIbXTYJnSxCi7",
+    "id" : "7ShOyKZtwYXjNQwg39b18W",
     "name" : "Versioned_Project",
     "type" : "Project",
     "metadata" : {
@@ -11,12 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "adding desc",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
+  "updateTime" : "2023-07-24T19:16:46.539Z",
   "objectRefs" : [ ]
 }
