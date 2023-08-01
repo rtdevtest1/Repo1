@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "8R6SwFeWQBXdBYTOBRn2SU",
+    "name" : "VCS_PROJ_UI",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "This folder contains assets for Pod Certification.",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-01T21:40:51.977Z",
+  "objectRefs" : [ ]
+}
